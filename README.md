@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi! 👋
 
+I'm trying to learn more about programming, applying it as a hobby and as something useful in my job!
 <!--
 **Rspis/Rspis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
